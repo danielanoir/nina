@@ -41,3 +41,8 @@ h2 {
 .link:hover {
   color: #6c97cc;
 }
+
+#ninaImage {
+  width: 300px;
+  padding: 20px;
+}
