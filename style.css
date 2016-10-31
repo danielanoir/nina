@@ -30,24 +30,25 @@ h2 {
   height: 100px;
   padding-top: 30px;
   text-align: center;
+  border-bottom: 10px solid gray;
 }
 .link {
   text-decoration: none;
   margin-top: 20px;
   padding: 20px;
   color: #bedbf7;
+  font-size: 23px;
   font-family: 'Montserrat', sans-serif;
 }
 .link:hover {
   color: #6c97cc;
 }
-
 .aboutSection {
   padding: 10px;
 }
 #ninaImage {
   padding-right: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   padding-top: 20px;
   height: 400px;
 }
